@@ -2,4 +2,4 @@
 
 This project was created from local system.
 
-Created by Mohammad Hussain.
+Created by Mohammad Hussain
